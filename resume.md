@@ -1,7 +1,7 @@
 ## 钟宇
 - Email: hello8080@qq.com
 - 微信号: zhongy2005
-- 大专/珠海城市职业技术学院/计算机网络技术
+- 本科/电子科技大学中山学院/计算机科学与技术
 - Github: https://github.com/spade2005
 - 2012年开始工作
 - 期望职位：PHP高级程序员，Golang初中级
